@@ -1,5 +1,5 @@
 
-# eCommerce - Django
+# Portfolio - Django
 
 
 # Authors
