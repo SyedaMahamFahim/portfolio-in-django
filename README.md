@@ -18,13 +18,13 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/SyedaMahamFahim/Fullstack-Portfolio-In-Django.git
+  git clone https://github.com/SyedaMahamFahim/portfolio-in-django.git
 ```
 
 Go to the project directory 
 
 ```bash
-  cd fullstack-portfolio-in-django
+  cd portfolio-in-django
 ```
 
 create virtual environment
